@@ -3,7 +3,7 @@
 <br>
 <h3>
 <li> Hello 🙌, I'm Yash Kumar  </li>
-<li> 😄 3rd-year Undergraduate student at IIIT Delhi. </li><br>
+<li> 😄 Graduate student at IIIT Delhi. </li><br>
 # 💫 About Me:<br><br>
   - 🌱 I’m currently learning **React Native**<br>
   - 👨‍💻 All of my projects are available on my GitHub <br><br>
